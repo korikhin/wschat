@@ -16,7 +16,7 @@ Then launch the client in another terminal:
 go run . client
 ```
 
-After that you can enter a message and hit enter on the client side and the server will echo the message. For example:
+After that you can enter a message on the client side and the server will echo the message. For example:
 
 ```
       Client      |   Server
